@@ -1,9 +1,10 @@
 # x-o-game
-![GitHub Repo stars](https://img.shields.io/github/stars/Faatiimae/calculator?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/Faatiimae/calculator?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Faatiimae/calculator?style=for-the-badge)
-
-  Hello, I created calculator with html, css and js tags.
+![GitHub Repo stars](https://img.shields.io/github/stars/Faatiimae/x-o-game?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/Faatiimae/x-o-game?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Faatiimae/x-o-game?style=for-the-badge)
+ 
+  
+Hello, the project created with html-5,css-3 and javascript file for X/O Game.
 
 
 ## ## RULES OF USE
