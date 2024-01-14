@@ -8,8 +8,8 @@
 
 ## ## RULES OF USE
 
-> *STEP-1:* `https://github.com/Faatiimae/calculator.git` <br/>
-> *STEP-2:*  enter the `calculator` folder that appears <br/>
+> *STEP-1:* `https://github.com/Faatiimae/x-o-game.git` <br/>
+> *STEP-2:*  enter the `x-o-game` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
 > *STEP-4:*  run the  all the`index.html` files in the main folder <br/>
 > *STEP-5:*  to download the project as `.zip`  [here]() click <br/>
